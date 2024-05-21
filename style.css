@@ -44,7 +44,7 @@ body {
     text-align: center;
 }
 
-button {
+.button {
     height: 3vw;
     width: 11vw;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -140,17 +140,11 @@ html {
         font-size: 3vw;
     }
 
-    button {
+    .button {
         height: 5vw;
         width: 18vw;
         font-size: 2.5vw;
         margin-top: 7vw;
-    }
-
-    .contact a img {
-        width: 30px;
-        height: 30px;
-        margin: 0 auto;
     }
     #project {
         font-size: 4vw;
@@ -187,17 +181,11 @@ html {
         font-size: 4vw;
     }
 
-    button {
+    .button {
         height: 6vw;
         width: 22vw;
         font-size: 3vw;
         margin-top: 10vw;
-    }
-
-    .contact a img {
-        width: 30px;
-        height: 30px;
-        margin: 0 auto;
     }
 
     #project {
@@ -235,7 +223,7 @@ html {
         font-size: 5vw;
     }
 
-    button {
+    .button {
         height: 8vw;
         width: 30vw;
         font-size: 4vw;
