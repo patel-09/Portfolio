@@ -60,6 +60,12 @@ body {
     text-align: center;
 }
 
+#vraj{
+    height: 25vw;
+    width: 50vw;
+    justify-self: center;
+}
+
 .contact{
     display: grid;
     grid-template-columns: repeat(4,25%);
