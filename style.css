@@ -152,6 +152,11 @@ html {
         font-size: 2.5vw;
         margin-top: 7vw;
     }
+
+    #vraj{
+        height: 45vw;
+        width: 90vw;
+    }
     #project {
         font-size: 4vw;
     }
@@ -192,6 +197,11 @@ html {
         width: 22vw;
         font-size: 3vw;
         margin-top: 10vw;
+    }
+
+    #vraj{
+        height: 45vw;
+        width: 90vw;
     }
 
     #project {
@@ -236,6 +246,10 @@ html {
         margin-top: 15vw;
     }
 
+    #vraj{
+        height: 45vw;
+        width: 90vw;
+    }
     .contact a img {
         width: 20px;
         height: 20px;
