@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Certopus",
+    "startDate": "May, 2023",
+    "endDate": "Aug 2023",
+    "experiences": ["Enhanced website UI with Next.js for better responsiveness and modern design.", 
+    "Built RESTful APIs with Python and Spring Boot, improving API response time by 20%",
+     "Delivered scalable solutions using Agile, CI/CD pipelines, and collaborative teamwork."],
+    "imageSrc": "history/certopus.svg"
+  },
+  {
+    "role": "Junior Developer",
+    "organisation": "Dalhousie University",
+    "startDate": "Sep, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Conducted user research and testing for the Student Observation Tool using Agile principles", "Created wireframes and prototypes with HTML, CSS, and JavaScript, focusing on usability" , "Worked with a team to integrate UX designs with the backend and optimize workflows."],
+    "imageSrc": "history/Dal.png"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "title": "DalBook",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for Dalhousie students to connects and engage with thier friends.",
+    "skills": ["React", "Javascript", "Node" , "SpringBoot" , "MySQL"],
+    "source": "https://www.github.com"
+  }
+]
